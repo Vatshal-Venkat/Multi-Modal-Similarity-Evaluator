@@ -1,0 +1,12 @@
+gradio
+torch
+transformers
+sentence-transformers
+torchaudio
+open-clip-torch
+opencv-python-headless
+scikit-learn
+scipy
+matplotlib
+pillow
+numpy
